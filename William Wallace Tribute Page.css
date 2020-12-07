@@ -1,0 +1,36 @@
+body{
+  font-family:georgia;
+}
+.box-1{
+  text-align:center;
+}
+.box-2{
+  text-align:center;
+}
+img{
+  width:400px;
+}
+ul{
+  padding:10px;
+}
+.list{
+margin:15px;
+text-align: left;
+width: 40%;
+position:relative;
+left: 30%;
+}	
+  
+
+.footer-1{
+text-align: center;
+padding:10px
+}
+
+#copyright{
+  
+  text-align:center;
+}
+body{
+  background: linear-gradient(to left, White 38%, DodgerBlue 50%);
+}
